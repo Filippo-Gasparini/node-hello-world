@@ -4,7 +4,7 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "puppa": "./index.js"
+    "link": "start chrome youtube.com"
   },
   "author": "Filippo Gasparini",
   "license": "ISC",
